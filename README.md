@@ -1,1 +1,1 @@
-Learning HTML,CSS,JAVASCRIPT, and Node.js
+This is a sample html. It contains popular filipino dishes.
